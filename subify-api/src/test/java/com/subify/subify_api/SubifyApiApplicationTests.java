@@ -1,0 +1,13 @@
+package com.subify.subify_api;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SubifyApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
